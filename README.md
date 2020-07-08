@@ -1,4 +1,4 @@
-# Game of Life
+# Game of Life (Made it for my University class (C292))
 
 #### Rules of the game:
 
